@@ -6,5 +6,13 @@ Assign the first usable address to the PC in each LAN.
 Assign the last usable address to the router's interface in each LAN.
 Configure the static routes on each router so that the PCs can ping each other.
 
-## Notes
-This was my first packet tracer lab completed on linux
+## Screenshots
+
+### Topology
+![Topology](screenshots/topology.png)
+
+### Router Configuration
+![Assigning Router IP](screenshots/assigning-router-ip.png)
+![Assigning Static Routes](screenshots/assigning-static-routes.png)
+
+
