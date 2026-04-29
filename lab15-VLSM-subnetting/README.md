@@ -1,4 +1,4 @@
-# Lab 1 - VLSM subnetting
+# Lab 15 - VLSM subnetting
 
 ## Goal
 Subnet the 192.168.6.0/24 network to provide sufficient addressing for each LAN. (also, the point-to-point connection between R1 and R2).
