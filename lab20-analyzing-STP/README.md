@@ -63,8 +63,10 @@ G0/2: R, since g0/1 must be D, and it has low cost (4)
 
 Q: Confirm your answers in the CLI
 
->en
+`>en`
+
 `#show spanning-tree`
+
 `#show spanning-tree detail`
 
 ## Screenshots
